@@ -1,5 +1,5 @@
 # CastleDB Data Parser to TypeScript (`GameData.ts`)
-This repository contains a TypeScript script designed to convert a CastleDB JSON export (`data.cdb`) into highly structured TypeScript classes and static data structures (`GameData.ts`). This ensures your game data is fully typed, providing compile-time safety and excellent autocompletion in your IDE.
+A TypeScript script designed to convert a CastleDB JSON export (`data.cdb`) into highly structured TypeScript classes and static data structures (`GameData.ts`). This ensures your game data is fully typed, providing compile-time safety and excellent autocompletion in your IDE.
 
 ## Prerequisites
 You must have `Node.js` and `TypeScript` installed to run this script.
