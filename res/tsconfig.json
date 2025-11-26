@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "module": "es2020",
+    "target": "ES2020",
+    "noEmitOnError": false,
+    "strict": true,
+    "declaration": false,
+    // "outDir": "dist",
+    "verbatimModuleSyntax": true
+  },
+  "files": [
+    // "parse.ts",
+    "castledb_parser.ts",
+    "castle_db_types.ts"
+  ]
+}
